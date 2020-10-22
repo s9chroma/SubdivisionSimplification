@@ -1,0 +1,49 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/FindBoost.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/WindowsPaths.cmake
+C:/dev/CGAL-5.1/CGALConfig.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_Common.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_CreateSingleSourceCGALProgram.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_GeneratorSpecificSettings.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_Macros.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_SCM.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_SetupBoost.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_SetupCGALDependencies.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_SetupGMP.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_SetupVLD.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_TweakFindBoost.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_VersionUtils.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_add_test.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_enable_end_of_configuration_hook.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_setup_target_dependencies.cmake
+C:/dev/CGAL-5.1/cmake/modules/CGAL_target_use_TBB.cmake
+C:/dev/CGAL-5.1/cmake/modules/FindGMP.cmake
+C:/dev/CGAL-5.1/cmake/modules/FindGMPXX.cmake
+C:/dev/CGAL-5.1/cmake/modules/FindMPFR.cmake
+C:/dev/CGAL-5.1/lib/cmake/CGAL/CGALConfig.cmake
+C:/dev/CGAL-5.1/lib/cmake/CGAL/CGALConfigBuildVersion.cmake
+C:/dev/CGAL-5.1/lib/cmake/CGAL/CGALConfigVersion.cmake
+W:/SubdivSimp/code/CMakeLists.txt
+W:/SubdivSimp/code/build/CMakeFiles/3.19.0-rc1/CMakeCCompiler.cmake
+W:/SubdivSimp/code/build/CMakeFiles/3.19.0-rc1/CMakeCXXCompiler.cmake
+W:/SubdivSimp/code/build/CMakeFiles/3.19.0-rc1/CMakeRCCompiler.cmake
+W:/SubdivSimp/code/build/CMakeFiles/3.19.0-rc1/CMakeSystem.cmake
