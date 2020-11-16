@@ -325,7 +325,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="W:\SubdivSimp\code\code\main.cpp" />
-    <ClCompile Include="W:\SubdivSimp\code\code\geom.cpp" />
+    <ClCompile Include="W:\SubdivSimp\code\code\math_util.cpp" />
+    <ClCompile Include="W:\SubdivSimp\code\code\subdiv_simplification.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="W:\SubdivSimp\code\build\ZERO_CHECK.vcxproj">

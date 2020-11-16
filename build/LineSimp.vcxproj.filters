@@ -4,7 +4,10 @@
     <ClCompile Include="W:\SubdivSimp\code\code\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="W:\SubdivSimp\code\code\geom.cpp">
+    <ClCompile Include="W:\SubdivSimp\code\code\math_util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W:\SubdivSimp\code\code\subdiv_simplification.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
