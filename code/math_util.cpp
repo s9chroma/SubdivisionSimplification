@@ -68,10 +68,21 @@ angle_range_intersection(angle_range a1, angle_range a2)
       break;
     }
     case 3: // binary representation 0011
+    case 7: // binary representation 0111
+    case 11: // binary representation 1011
     {
       intersection_angle = {a1.start, a1.end};
       break;
     }
+
+    case 12: // binary representation 1100
+    case 14: // binary representation 1110
+    case 13: // binary representation 1101
+    {
+      intersection_angle = {a2.start, a2.end};
+      break;
+    }
+
     case 9: // binary representation 1001
     {
       intersection_angle = {a2.start, a1.end};
@@ -80,31 +91,6 @@ angle_range_intersection(angle_range a1, angle_range a2)
     case 6: // binary representation 0110
     {
       intersection_angle = {a1.start, a2.end};
-      break;
-    }
-    case 12: // binary representation 1100
-    {
-      intersection_angle = {a2.start, a2.end};
-      break;
-    }
-    case 7: // binary representation 0111
-    {
-      intersection_angle = {a1.start, a1.end};
-      break;
-    }
-    case 11: // binary representation 1011
-    {
-      intersection_angle = {a1.start, a1.end};
-      break;
-    }
-    case 14: // binary representation 1110
-    {
-      intersection_angle = {a2.start, a2.end};
-      break;
-    }
-    case 13: // binary representation 1101
-    {
-      intersection_angle = {a2.start, a2.end};
       break;
     }
   }
